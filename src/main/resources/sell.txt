@@ -1,0 +1,21 @@
+commodity_name	discount
+ZQAgY
+ZQAgY
+mtDdT	0.6
+ZQAgY	0.6
+xsPQz	0.6
+ZQAgY
+CLXpQ	0.8
+mtDdT
+BQsJv
+ZQAgY
+BQsJv
+xsPQz	0.8
+mtDdT
+BQsJv	0.9
+xsPQz	0.7
+xsPQz
+CLXpQ	0.6
+BQsJv
+ZQAgY
+mtDdT
